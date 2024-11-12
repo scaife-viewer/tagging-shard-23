@@ -1,0 +1,431 @@
+1.1	0	1.	PUNCT	Z		1.	ROOT	0
+1.1	1	Χρὴ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	χρή	ROOT	1
+1.1	2	γινώσκειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	γιγνώσκω	ccomp	1
+1.1	3	ὅτι	SCONJ	G-		ὅτι	mark	8
+1.1	4	πάσης	DET	Px	Case=Gen|Gender=Fem|Number=Sing	πᾶς	det	6
+1.1	5	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	6
+1.1	6	γῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	γῆ	nmod	8
+1.1	7	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	8
+1.1	8	περίμετρος	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	περίμετρος	ccomp	2
+1.1	9	.	PUNCT	Z		.	punct	1
+1.1	10	στάδιά	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	στάδιον	ROOT	10
+1.1	11	ἐστι	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	12
+1.1	12	δισχίλια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	δισχίλιοι	nummod	10
+1.1	13	καὶ	CCONJ	C-		καί	cc	12
+1.1	14	μυριάδες	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	μυριάς	conj	12
+1.1	15	εἴκοσι	NUM	Ma		εἴκοσι	nummod	14
+1.1	16	πέντε	NUM	Ma		πέντε	fixed	15
+1.1	17	·	PUNCT	Z		·	punct	10
+1.1	18	μῆκος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	μῆκος	ROOT	18
+1.1	19	δὲ	ADV	Df		δέ	discourse	31
+1.1	20	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	22
+1.1	21	ἡμετέρας	ADJ	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	ἡμέτερος	nmod	22
+1.1	22	οἰκουμένης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	οἰκουμένη	nmod	28
+1.1	23	ἀπὸ	ADP	R-		ἀπό	case	24
+1.1	24	στόματος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	στόμα	obl	28
+1.1	25	Γάγγου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Γάγγης	nmod	24
+1.1	26	ἕως	ADP	R-		ἕως	case	27
+1.1	27	Γαδείρων	PROPN	Ne	Case=Gen|Gender=Neut|Number=Plur	Γάδειρα	nmod	24
+1.1	28	στάδια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	στάδιον	nsubj	31
+1.1	29	ὀκτακισμύρια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	ὀκτακισμύριος	nummod	28
+1.1	30	τρισχίλια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τρισχίλιοι	fixed	29
+1.1	31	ὀκ	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	ὀκ	nummod	18
+1.1	32	τακόσια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τακόσιος	fixed	31
+1.1	33	·	PUNCT	Z		·	punct	18
+1.1	34	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	36
+1.1	35	δὲ	ADV	Df		δέ	discourse	45
+1.1	36	πλάτος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	πλάτος	nsubj	45
+1.1	37	ἀπὸ	ADP	R-		ἀπό	case	40
+1.1	38	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	40
+1.1	39	Αἰθιοπικῆς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	Αἰθιοπικός	amod	40
+1.1	40	θαλάσσης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	θάλασσα	nmod	36
+1.1	41	ἕως	ADP	R-		ἕως	case	43
+1.1	42	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	43
+1.1	43	Τανάϊδος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Τάναϊς	nmod	40
+1.1	44	ποταμοῦ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ποταμός	appos	43
+1.1	45	στάδια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	στάδιον	nsubj	61
+1.1	46	τρισμύρια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τρισμύριον	nummod	45
+1.1	47	πεντακισχίλια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	πεντακισχίλιοι	fixed	46
+1.1	48	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	51
+1.1	49	δὲ	ADV	Df		δέ	discourse	51
+1.1	50	μεταξὺ	ADP	R-		μεταξύ	case	51
+1.1	51	Εὐφράτου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Εὐφράτης	dep	45
+1.1	52	καὶ	CCONJ	C-		καί	cc	51
+1.1	53	Τίγριδος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Τίγριυς	conj	51
+1.1	54	ποταμοῦ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ποταμός	appos	53
+1.1	55	,	PUNCT	Z		,	fixed	45
+1.1	56	ὃ	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	ὁ	nsubj:pass	57
+1.1	57	καλεῖται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	καλέω	dep	55
+1.1	58	Μεσοποτάμιον	PROPN	Ne	Case=Nom|Gender=Neut|Number=Sing	Μεσοποτάμιος	xcomp	57
+1.1	59	,	PUNCT	Z		,	advmod	61
+1.1	60	διάστημα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	διάστημα	obj	61
+1.1	61	ἔχει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω	ROOT	61
+1.1	62	σταδίων	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	στάδιον	xcomp	61
+1.1	63	τρισχιλίων	NUM	Ma	Case=Gen|Gender=Neut|Number=Plur	τρισχίλιοι	nummod	62
+1.1	64	,	PUNCT	Z		,	acl	60
+1.1	65	Ταύτην	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	οὗτος	det	67
+1.1	66	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	67
+1.1	67	ἀναμέτρησιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀναμέτρησις	obj	68
+1.1	68	πεποίηκεν	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ποιέω	ROOT	68
+1.1	69	Ἐρατοσθένης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἐρατοσθένης	nsubj	68
+1.1	70	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	73
+1.1	71	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	72
+1.1	72	ἀρχαίων	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ἀρχαῖος	nmod	73
+1.1	73	μαθητικώτατος	ADJ	A-	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	μαθητικώς	appos	69
+1.1	74	.	PUNCT	Z		.	punct	68
+2.2	0	2.	PUNCT	Z		2.	ROOT	0
+2.2	1	Ἀπὸ	ADP	R-		ἀπό	case	3
+2.2	2	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	3
+2.2	3	Βυζαντίου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Βυζάντιον	obl	7
+2.2	4	εἰς	ADP	R-		εἰς	case	6
+2.2	5	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	6
+2.2	6	Σωσθένιον	PROPN	Ne	Case=Acc|Gender=Neut|Number=Sing	Σωσθένιος	obl	3
+2.2	7	στάδια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	στάδιον	ROOT	7
+2.2	8	ὀγδοήκοντα	NUM	Ma		ὀγδοήκοντα	nummod	7
+2.2	9	,	PUNCT	Z		,	nummod	7
+2.2	10	μίλια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	μίλιον	ROOT	10
+2.2	11	δέκα	NUM	Ma		δέκα	nummod	10
+2.2	12	καὶ	CCONJ	C-		καί	cc	11
+2.2	13	ἥμισυ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἥμισυς	conj	11
+2.2	14	·	PUNCT	Z		·	punct	10
+2.2	15	ἀπὸ	ADP	R-		ἀπό	case	18
+2.2	16	δὲ	ADV	Df		δέ	discourse	18
+2.2	17	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	18
+2.2	18	Σωσθενίου	PROPN	Ne	Case=Gen|Gender=Neut|Number=Sing	Σωσθενῖος	obl	22
+2.2	19	εἰς	ADP	R-		εἰς	case	21
+2.2	20	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	21
+2.2	21	Ἱερὸν	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	Ἱερόν	orphan	18
+2.2	22	στάδια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	στάδιον	ROOT	22
+2.2	23	τεσσαράκοντα	NUM	Ma		τεσσαράκοντα	nummod	22
+2.2	24	,	PUNCT	Z		,	fixed	22
+2.2	25	μίλια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	μίλιον	conj	22
+2.2	26	πέντε	NUM	Ma		πέντε	nummod	25
+2.2	27	ἥμισυ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἥμισυς	advmod	25
+2.2	28	·	PUNCT	Z		·	punct	22
+2.2	29	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	30
+2.2	30	πᾶν	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	πᾶς	nsubj	31
+2.2	31	μίλια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	μίλιον	ROOT	31
+2.2	32	δεκαέξ	NUM	Ma		δεκαέξ	nummod	31
+2.2	33	.	PUNCT	Z		.	punct	31
+2.2	34	Ἀπὸ	ADP	R-		ἀπό	case	37
+2.2	35	δὲ	ADV	Df		δέ	discourse	51
+2.2	36	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	37
+2.2	37	Ἱεροῦ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	Ἱερόν	obl	35
+2.2	38	Διὸς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ζεύς	nmod	37
+2.2	39	Οὐρίου	ADJ	Ne	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	Οὐρῖος	amod	38
+2.2	40	ἤτοι	CCONJ	C-		ἤτοι	cc	37
+2.2	41	στόματος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	στόμα	conj	37
+2.2	42	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	43
+2.2	43	Πόντου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Πόντος	nmod	41
+2.2	44	ἕως	ADP	R-		ἕως	case	46
+2.2	45	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	46
+2.2	46	ἱεροῦ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	ἱερόν	obl	35
+2.2	47	στόματος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	στόμα	appos	46
+2.2	48	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	49
+2.2	49	Ἴστρου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ἴστρος	nmod	47
+2.2	50	ποταμοῦ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ποταμός	appos	49
+2.2	51	στάδια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	στάδιον	ROOT	51
+2.2	52	τρισχίλια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τρισχίλιοι	nummod	51
+2.2	53	ἑξακόσια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	ἑξακόσιοι	nummod	51
+2.2	54	τεσσαράκοντα	NUM	Ma		τεσσαράκοντα	nummod	51
+2.2	55	,	PUNCT	Z		,	punct	51
+2.2	56	μίλια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	μίλιον	ROOT	56
+2.2	57	τετρακόσια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τετρακόσιοι	nummod	56
+2.2	58	ὀγδοήκοντα	NUM	Ma	Case=Gen|Number=Plur	ὀγδοήκοντα	fixed	57
+2.2	59	πέντε	NUM	Ma		πέντε	fixed	57
+2.2	60	ἥμισυ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἥμισυς	advmod	56
+2.2	61	.	PUNCT	Z		.	punct	56
+2.3	0	3.	PUNCT	Z		3.	ROOT	0
+2.3	1	Ἀπὸ	ADP	R-		ἀπό	case	4
+2.3	2	δὲ	ADV	Df		δέ	ROOT	2
+2.3	3	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	4
+2.3	4	Ἱεροῦ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	Ἱερόν	obl	2
+2.3	5	Διὸς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ζεύς	nmod	4
+2.3	6	Οὐρίου	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	Οὐρῖος	amod	5
+2.3	7	ἕως	ADP	R-		ἕως	case	8
+2.3	8	Βορυσθένους	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Βορυσθένης	obl	2
+2.3	9	ποταμοῦ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ποταμός	appos	8
+2.3	10	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	13
+2.3	11	καὶ	ADV	Df		καί	advmod	12
+2.3	12	Δανάπρεως	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Δανάπραος	xcomp	13
+2.3	13	καλουμένου	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	καλέω	acl	8
+2.3	14	στάδια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	στάδιον	nsubj	2
+2.3	15	πεντακισχίλια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	πεντακισχίλιοι	nummod	14
+2.3	16	ἑξακόσια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	ἑξακόσιος	nummod	14
+2.3	17	,	PUNCT	Z		,	punct	2
+2.3	18	μίλια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	μίλιον	ROOT	18
+2.3	19	ἑπτακόσια	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	ἑπτακόσιοι	nummod	18
+2.3	20	τεσσαρακονταὲξ	NUM	Ma		τεσσαρακονταὲξ	nummod	18
+2.3	21	ἥμισυ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἥμισυς	advmod	18
+2.3	22	.	PUNCT	Z		.	punct	18
+2.3	23	Ἀπὸ	ADP	R-		ἀπό	case	26
+2.3	24	δὲ	ADV	Df		δέ	ROOT	24
+2.3	25	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	26
+2.3	26	Ἱεροῦ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	Ἱερόν	obl	24
+2.3	27	Διὸς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ζεύς	nmod	26
+2.3	28	Οὐρίου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Οὐρῖος	appos	27
+2.3	29	ἕως	ADP	R-		ἕως	case	30
+2.3	30	Πορθμίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	Πορθμία	obl	24
+2.3	31	πόλεως	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	πόλις	appos	30
+2.3	32	,	PUNCT	Z		,	punct	24
+2.3	33	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	35
+2.3	34	ἐν	ADP	R-		ἐν	case	35
+2.3	35	τέλει	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	τέλος	ROOT	35
+2.3	36	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	37
+2.3	37	Εὐρώπης	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Εὐρώπη	nmod	35
+2.3	38	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	41
+2.3	39	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	40
+2.3	40	Πόντου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Πόντος	nmod	41
+2.3	41	μερῶν	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	μέρος	nmod	37
+2.3	42	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	45
+2.3	43	ἐν	ADP	R-		ἐν	case	45
+2.3	44	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	45
+2.3	45	στομίῳ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	στομίον	nmod	41
+2.3	46	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	47
+2.3	47	Μαιώτιδος	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Μαιώτης	nmod	48
+2.3	48	λίμνης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	λίμνη	nmod	45
+2.3	49	ἤτοι	CCONJ	C-		ἤτοι	cc	45
+2.3	50	Βοσπόρου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Βόσπορος	conj	45
+2.3	51	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	52
+2.3	52	Κιμμερίου	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	Κιμμέριοι	xcomp	53
+2.3	53	καλουμένου	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	καλέω	acl	50
+2.3	54	,	PUNCT	Z		,	det	55
+2.3	55	στάδια	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	στάδιον	ROOT	55
+2.3	56	μύρια	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	μύρια	nummod	55
+2.3	57	χίλια	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	χίλιοι	nummod	55
+2.3	58	ἑκατόν	NUM	Ma		ἑκατόν	fixed	57
+2.3	59	,	PUNCT	Z		,	dislocated	55
+2.3	60	μίλια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	μίλιον	conj	55
+2.3	61	χίλια	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	χίλιοι	nummod	60
+2.3	62	τετρακόσια	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	τετρακόσιοι	fixed	61
+2.3	63	ὀγδοήκοντα	NUM	Ma		ὀγδοήκοντα	fixed	61
+2.3	64	.	PUNCT	Z		.	punct	55
+2.3	65	Λέγεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	λέγω	ROOT	65
+2.3	66	δὲ	ADV	Df		δέ	discourse	65
+2.3	67	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	68
+2.3	68	Εὐρώπης	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Εὐρώπη	nmod	72
+2.3	69	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	70
+2.3	70	Ποντικῆς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	Ποντικός	nmod	68
+2.3	71	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	72
+2.3	72	περίπλους	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	περίπλοος	nsubj	73
+2.3	73	ἴσος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἴσος	csubj:pass	65
+2.3	74	εἶναι	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	cop	73
+2.3	75	τῶ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	76
+2.3	76	περίπλῳ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	περίπλοος	iobj	73
+2.3	77	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	80
+2.3	78	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	79
+2.3	79	Ἀσίας	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Ἀσία	nmod	80
+2.3	80	μερῶν	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	μέρος	nmod	76
+2.3	81	.	PUNCT	Z		.	punct	65
+2.4	0	4.	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	4.	nummod	14
+2.4	1	Ἀπὸ	ADP	R-		ἀπό	case	4
+2.4	2	δὲ	ADV	Df		δέ	case	4
+2.4	3	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	4
+2.4	4	Ἱεροῦ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	Ἱερόν	nmod	9
+2.4	5	Διὸς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ζεύς	nmod	4
+2.4	6	Οὐρίου	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	Οὐρῖος	amod	5
+2.4	7	ἕως	ADP	R-		ἕως	case	8
+2.4	8	Ἀμισοῦ	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Ἀμισός	orphan	9
+2.4	9	στάδια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	στάδιον	nsubj	13
+2.4	10	τετρακισχίλια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τετρακισχίλιον	nummod	9
+2.4	11	ἑξακόσια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	ἑξακόσιοι	fixed	10
+2.4	12	ἐξήκοντα	NUM	Ma		ἐξήκω	fixed	10
+2.4	13	,	PUNCT	Z		,	advmod	14
+2.4	14	μίλια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	μίλιον	ROOT	14
+2.4	15	ἑξακόσια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	ἑξακόσιοι	nummod	14
+2.4	16	εἰκοσιὲν	NUM	Ma		εἰκοσιὲς	nummod	14
+2.4	17	ἥμισυ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἥμισυς	advmod	14
+2.4	18	.	PUNCT	Z		.	punct	14
+2.4	19	Ἀπὸ	ADP	R-		ἀπό	case	24
+2.4	20	δὲ	ADV	Df		δέ	discourse	24
+2.4	21	Ἀμισοῦ	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Ἀμισός	obl	20
+2.4	22	ἕως	ADP	R-		ἕως	case	24
+2.4	23	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	24
+2.4	24	Φάσεως	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Φάσαος	orphan	26
+2.4	25	ποταμοῦ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ποταμός	appos	24
+2.4	26	στάδια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	στάδιον	nsubj:pass	30
+2.4	27	τρισχίλια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τρισχίλιοι	nummod	26
+2.4	28	ὀκτακόσια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	ὀκτακόσιοι	fixed	27
+2.4	29	δύο	NUM	Ma		δύο	fixed	27
+2.4	30	,	PUNCT	Z		,	amod	31
+2.4	31	μίλια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	μίλιον	ROOT	31
+2.4	32	πεντακόσια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	πεντακόσιοι	nummod	31
+2.4	33	ἑπτά	NUM	Ma		ἑπτά	fixed	32
+2.4	34	.	PUNCT	Z		.	punct	31
+2.4	35	Ἀπὸ	ADP	R-		ἀπό	case	38
+2.4	36	δὲ	ADV	Df		δέ	discourse	55
+2.4	37	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	38
+2.4	38	Φάσεως	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	Φάσαος	obl	36
+2.4	39	ποταμοῦ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ποταμός	nmod	38
+2.4	40	ἕως	ADP	R-		ἕως	case	42
+2.4	41	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	42
+2.4	42	στόματος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	στόμα	obl	36
+2.4	43	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	44
+2.4	44	Μαιώτιδος	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Μαιώτης	nmod	45
+2.4	45	λίμνης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	λίμνη	nmod	42
+2.4	46	ἤτοι	CCONJ	C-		ἤτοι	cc	42
+2.4	47	ἕως	ADP	R-		ἕως	case	50
+2.4	48	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	50
+2.4	49	Ἀχιλλείου	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	Ἀχιλλεῖος	amod	50
+2.4	50	κώμης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	κώμη	conj	42
+2.4	51	στάδια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	στάδιον	nsubj	36
+2.4	52	τετρακισχίλια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τετρακισχίλιον	nummod	51
+2.4	53	εἴκοσι	NUM	Ma		εἴκοσι	fixed	52
+2.4	54	πέντε	NUM	Ma		πέντε	fixed	52
+2.4	55	,	PUNCT	Z		,	ROOT	55
+2.4	56	μίλια	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	μίλιον	ROOT	56
+2.4	57	πεντακόσια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	πεντακόσιοι	nummod	56
+2.4	58	τριακονταὲξ	NUM	Ma		τριακονταὲξ	fixed	57
+2.4	59	ἥμισυ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἥμισυς	advmod	56
+2.4	60	,	PUNCT	Z		,	dep	56
+2.4	61	ὡς	ADV	Dq	PronType=Rel	ὡς	advmod	62
+2.4	62	γίνεσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	γίγνομαι	advcl	60
+2.4	63	ἀπὸ	ADP	R-		ἀπό	case	65
+2.4	64	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	65
+2.4	65	Ἱεροῦ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	Ἱερόν	obl	62
+2.4	66	Διὸς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ζεύς	nmod	65
+2.4	67	Οὐρίου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Οὐρῖος	appos	66
+2.4	68	ἕως	ADP	R-		ἕως	case	70
+2.4	69	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	70
+2.4	70	στόματος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	στόμα	obl	62
+2.4	71	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	73
+2.4	72	Μαιώτιδος	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Μαιώτης	nmod	73
+2.4	73	λίμνης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	λίμνη	nmod	70
+2.4	74	στάδια	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	στάδιον	nsubj	62
+2.4	75	μύρια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	μύρια	nummod	74
+2.4	76	δισ	NUM	Ma		δισ	fixed	75
+2.4	77	χίλια	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	χίλιοι	fixed	75
+2.4	78	τετρακόσια	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	τετρακόσιοι	fixed	77
+2.4	79	ὀγδοήκοντα	NUM	Ma	Case=Gen|Gender=Masc|Number=Plur	ὀγδοήκοντα	fixed	77
+2.4	80	ἑπτὰ	NUM	Ma		ἑπτά	fixed	79
+2.4	81	,	PUNCT	Z		,	punct	56
+2.4	82	μίλια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	μίλιον	ROOT	82
+2.4	83	χίλια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	χίλιοι	nummod	82
+2.4	84	ἑξακόσια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	ἑξακόσιοι	fixed	83
+2.4	85	ἐξήκοντα	NUM	Ma		ἐξήκω	fixed	83
+2.4	86	πέντε	NUM	Ma		πέντε	fixed	83
+2.4	87	ἥμισυ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἥμισυς	appos	82
+2.4	88	.	PUNCT	Z		.	punct	82
+2.5	0	5.	PUNCT	Z		5.	xcomp	2
+2.5	1	Ὁμοῦ	ADV	Df		Ὁμοῦς	advmod	2
+2.5	2	γίνεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	γίγνομαι	ROOT	2
+2.5	3	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	4
+2.5	4	περίπλους	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	περίπλοος	nsubj	2
+2.5	5	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	7
+2.5	6	Εὐξείνου	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	εὔξενος	amod	7
+2.5	7	Πόντου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Πόντος	nmod	4
+2.5	8	,	PUNCT	Z		,	cc	7
+2.5	9	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	11
+2.5	10	τε	CCONJ	C-		τε	cc	11
+2.5	11	δεξιῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	δεξιός	nmod	20
+2.5	12	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	11
+2.5	13	τε	CCONJ	C-		τε	cc	11
+2.5	14	παρὰ	ADP	R-		παρά	case	16
+2.5	15	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	16
+2.5	16	Ἀσίαν	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	Ἀσία	dep	17
+2.5	17	μερῶν	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	μέρος	conj	11
+2.5	18	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	19
+2.5	19	Πόντου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Πόντος	nmod	17
+2.5	20	,	PUNCT	Z		,	ROOT	20
+2.5	21	ἀριστερῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	ἀριστερέω	ROOT	21
+2.5	22	δὲ	ADV	Df		δέ	discourse	21
+2.5	23	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	27
+2.5	24	παρὰ	ADP	R-		παρά	case	26
+2.5	25	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	26
+2.5	26	Εὐρώπην	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	Εὐρώπη	nmod	27
+2.5	27	μερῶν	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	μέρος	nmod	21
+2.5	28	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	29
+2.5	29	Πόντου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Πόντος	nmod	27
+2.5	30	,	PUNCT	Z		,	ROOT	30
+2.5	31	ἀπὸ	ADP	R-		ἀπό	case	33
+2.5	32	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	33
+2.5	33	Ἱεροῦ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	Ἱερόν	obl	30
+2.5	34	Διὸς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ζεύς	nmod	33
+2.5	35	Οὐρίου	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	Οὐρῖος	amod	34
+2.5	36	,	PUNCT	Z		,	amod	37
+2.5	37	στάδια	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	στάδιον	ROOT	37
+2.5	38	δισμύρια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	δισμύριοι	nummod	37
+2.5	39	τρισχίλια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τρισχίλιοι	fixed	38
+2.5	40	πεντακόσια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	πεντακόσιοι	fixed	38
+2.5	41	ὀγδοήκοντα	NUM	Ma	Case=Gen|Number=Plur	ὀγδοήκοντα	fixed	38
+2.5	42	ἑπτὰ	NUM	Ma		ἑπτά	fixed	38
+2.5	43	,	PUNCT	Z		,	punct	37
+2.5	44	μίλια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	μίλιον	ROOT	44
+2.5	45	τρισχίλια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τρισχίλιοι	nummod	44
+2.5	46	ἑκατὸν	NUM	Ma		ἑκατόν	fixed	45
+2.5	47	τεσσαράκοντα	NUM	Ma		τεσσαράκοντα	fixed	45
+2.5	48	πέντε	NUM	Ma		πέντε	fixed	45
+2.5	49	.	PUNCT	Z		.	punct	44
+2.5	50	Ἔστι	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	59
+2.5	51	δὲ	ADV	Df		δέ	discourse	59
+2.5	52	καὶ	ADV	Df		καί	advmod	58
+2.5	53	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	54
+2.5	54	περίπλους	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	περίπλοος	nsubj	58
+2.5	55	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	57
+2.5	56	Μαιώτιδος	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Μαιώτης	nmod	57
+2.5	57	λίμνης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	λίμνη	nmod	54
+2.5	58	στάδια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	στάδιον	nsubj	59
+2.5	59	ἐννακισχίλια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	ἐννακισχίλιος	ROOT	59
+2.5	60	.	PUNCT	Z		.	punct	59
+2.5	61	μίλια	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	μίλιον	ROOT	61
+2.5	62	χίλια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	χίλιοι	nummod	61
+2.5	63	διακόσια	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	διακόσιοι	fixed	62
+2.5	64	.	PUNCT	Z		.	punct	61
+2.6	0	6.	PUNCT	Z		6.	ROOT	0
+2.6	1	Περὶ	ADP	R-		περί	case	3
+2.6	2	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	3
+2.6	3	σταδίου	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	στάδιον	obl	0
+2.6	4	.	PUNCT	Z		.	punct	3
+2.6	5	Τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	6
+2.6	6	στάδιον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	στάδιον	nsubj	8
+2.6	7	πήχεις	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	πῆχυς	obj	8
+2.6	8	ἔχει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω	ROOT	8
+2.6	9	τετρακοσίους	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	τετρακόσιοι	dep	8
+2.6	10	,	PUNCT	Z		,	punct	8
+2.6	11	πόδας	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	πούς	ROOT	11
+2.6	12	ὀκτακοσίους	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	ὀκτακόσιοι	nummod	11
+2.6	13	,	PUNCT	Z		,	ROOT	13
+2.6	14	ὀργυιὰς	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ὀργυιάς	ROOT	14
+2.6	15	ἑκατὸν	NUM	Ma		ἑκατόν	nummod	14
+2.6	16	τριάκοντα	NUM	Ma		τριάκοντα	fixed	15
+2.6	17	τρεῖς	NUM	Ma	Case=Acc|Gender=Fem,Masc|Number=Plur	τρεῖς	fixed	15
+2.6	18	ἥμισυ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἥμισυς	appos	14
+2.6	19	.	PUNCT	Z		.	punct	14
+2.7	0	7.	PUNCT	Z		7.	ROOT	0
+2.7	1	Περὶ	ADP	R-		περί	case	3
+2.7	2	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	3
+2.7	3	μιλίου	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	μιλῖον	obl	0
+2.7	4	.	PUNCT	Z		.	punct	3
+2.7	5	Τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	6
+2.7	6	μίλιον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	μίλιος	nsubj	7
+2.7	7	ἔχει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω	ROOT	7
+2.7	8	στάδια	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	στάδιον	obj	7
+2.7	9	ἑπτὰ	NUM	Ma		ἑπτά	nummod	8
+2.7	10	ἥμισυ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἥμισυς	amod	8
+2.7	11	,	PUNCT	Z		,	punct	7
+2.7	12	πήχεις	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	πῆχυς	ROOT	12
+2.7	13	τρισχιλίους	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	τρισχίλιοι	nummod	12
+2.7	14	,	PUNCT	Z		,	ROOT	14
+2.7	15	πόδας	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	πούς	ROOT	15
+2.7	16	ἑξακισχιλίους	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	ἑξακισχίλιοι	nummod	15
+2.7	17	.	PUNCT	Z		.	punct	15
+2.8	0	8.	PUNCT	Z		8.	ROOT	0
+2.8	1	Περὶ	ADP	R-		περί	case	3
+2.8	2	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	3
+2.8	3	ἐνιαυτοῦ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ἐνιαυτός	obl	0
+2.8	4	.	PUNCT	Z		.	punct	3
+2.8	5	Ἅπας	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	Ἅπας	nsubj	6
+2.8	6	ἔχει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω	ROOT	6
+2.8	7	ὥρας	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ὥρα	obj	6
+2.8	8	ὀκτακισχιλίας	NUM	Ma	Case=Acc|Gender=Fem|Number=Plur	ὀκτακισχιλῖος	nummod	7
+2.8	9	ἑπτακοσίας	NUM	Ma	Case=Acc|Gender=Fem|Number=Plur	ἑπτακόσιοι	nummod	7
+2.8	10	ἐξήκοντα	NUM	Ma	Case=Acc|Gender=Fem|Number=Plur	ἐξήκω	nummod	7
+2.8	11	ἓξ	NUM	Ma		ἕξ	nummod	7
+2.8	12	,	PUNCT	Z		,	punct	6
+2.8	13	ἡμέρας	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	ἡμέρα	ROOT	13
+2.8	14	τριακοσίας	NUM	Ma	Case=Acc|Gender=Fem|Number=Plur	τριακόσιοι	nummod	13
+2.8	15	ἑξήκοντα	NUM	Ma	Case=Acc|Gender=Fem|Number=Plur	ἑξήκοντα	fixed	14
+2.8	16	πέντε	NUM	Ma		πέντε	fixed	14
+2.8	17	καὶ	CCONJ	C-		καί	cc	13
+2.8	18	τέταρτον	ADJ	Mo	Case=Acc|Gender=Neut|Number=Sing	τέταρτος	orphan	13
+2.8	19	.	PUNCT	Z		.	ROOT	19
